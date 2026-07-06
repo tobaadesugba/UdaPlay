@@ -1,0 +1,10 @@
+# Exclude environment files
+.env
+.env.*
+
+# Exclude IDE / Editor configurations
+.vscode/
+
+# Exclude Python cache files
+lib/__pycache__/
+
